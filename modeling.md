@@ -2,6 +2,7 @@
 layout: guide
 title: Modeling Resources with Rest.li
 permalink: /modeling/modeling
+excerpt: This document will help you model your resource using Rest.li.
 index: 2
 ---
 

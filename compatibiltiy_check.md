@@ -1,10 +1,11 @@
 ---
 layout: guide
-title: User guide
+title: Rest.li Snapshots and Resource Compatibility Checking
 permalink: /modeling/compatibiltiy_check
 index: 2
+excerpt: Due to the fact that resources and clients can be upgraded separately, it is very important to developers that they be notified of any changes they make that could break backwards or forwards compatibility issues. To that end, Rest.li uses a form of expanded IDLs, called Snapshots, to keep track of the state of resources and check compatibility between resource iterations.
 ---
-# Snapshots and Resource Compatibility Checking
+# Rest.li Snapshots and Resource Compatibility Checking
 
 ## Contents
 
